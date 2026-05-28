@@ -1,0 +1,24 @@
+{
+  "name": "note_api",
+  "version": "1.0.0",
+  "description": "Learning system design with express",
+  "homepage": "https://github.com/Kesandu-ukpai/Notes-API#readme",
+  "bugs": {
+    "url": "https://github.com/Kesandu-ukpai/Notes-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kesandu-ukpai/Notes-API.git"
+  },
+  "license": "ISC",
+  "author": "kessy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
